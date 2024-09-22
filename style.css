@@ -1,0 +1,22 @@
+body{background-image: url(WHITE2.jpg);
+
+background-repeat: no-repeat; 
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+
+h1{font-family: "consolas" sans-serif;}
+
+form{border-style: outset;
+border-width: 5px;
+border-color: rgb(207, 166, 1);
+border-radius: 5px;
+
+}
+
+a:link{ color: cadetblue; 
+
+}
+a:hover{color: brown;}
+h1{text-shadow: 3px 0px 0px grey,0px -5px 5px red;}
